@@ -1,4 +1,4 @@
-# gatasos
+# Proyecto del juego del Gato en Flutter con conexion a base de datos en SQLite
 
 A new Flutter project.
 
